@@ -1,9 +1,9 @@
 //
 //  DataSource.swift
-//  screenshot
+//  cnotethegr8
 //
 //  Created by Corey Werner on 7/10/18.
-//  Copyright © 2018 crazeapp. All rights reserved.
+//  Copyright © 2018 cnotethegr8. All rights reserved.
 //
 
 import Foundation
